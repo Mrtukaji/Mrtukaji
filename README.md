@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! @Mrtukaji<br> Aspiring Front-End Developer | Cybersecurity Enthusiast | BSIT Student
+Hello! i'm @Mrtukaji<br> Aspiring Front-End Developer | Cybersecurity Enthusiast | BSIT Student
 
 
 ## 🌐 Socials:
