@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! i'm Ardy Bagnas A.K.A Mrtukaji<br> Aspiring Front-End Developer | Cybersecurity Enthusiast | BSIT Student
+Hello! i'm Ardy A.K.A Mrtukaji<br> Aspiring Front-End Developer | Cybersecurity Enthusiast | BSIT Student
 
 
 ## 🌐 Socials:
