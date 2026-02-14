@@ -1,6 +1,6 @@
 # Hello there! I'm Ardy Bagnas 👋
 
-## 💻 My Tech Stack
+## My Tech Stack
 
 | Frontend | Backend | Frameworks & Libraries | Databases | Languages |
 |----------|---------|------------------------|-----------|-----------|
