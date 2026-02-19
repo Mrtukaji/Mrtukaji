@@ -12,4 +12,5 @@
 
 ## Contact Me via:
 ardybagnas13@gmail.com
-ardybagnas.vercel.app
+[Portfolio](ardybagnas.vercel.app)
+
