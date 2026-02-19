@@ -11,4 +11,5 @@
 ---
 
 ## Contact Me via:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ardybagnas13@gmail.com) 
+ardybagnas13@gmail.com
+ardybagnas.vercel.app
