@@ -13,4 +13,4 @@
 ## Contact Me via:
 ardybagnas13@gmail.com
 
-[Portfolio]([ardybagnas.vercel.app](https://ardybagnas.vercel.app/))
+[Portfolio](https://ardybagnas.vercel.app/)
