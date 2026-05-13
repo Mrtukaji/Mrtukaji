@@ -1,4 +1,5 @@
-# Hello there! I'm Ardy Bagnas 👋
+# Hello there, I'm Ardy Bagnas 
+  
 
 ## My Tech Stack
 
@@ -11,6 +12,6 @@
 ---
 
 ## Contact Me via:
-ardybagnas13@gmail.com
+Email: ardybagnas13@gmail.com
 
-[Portfolio](https://ardybagnas.vercel.app/)
+Portfolio:https: //ardybagnas.vercel.app
