@@ -1,4 +1,4 @@
-# Hello there, I'm Ardy Bagnas 
+# Hello there, I'm Ardy
   
 
 ## My Tech Stack
